@@ -1,9 +1,9 @@
 //
-//  ViewController.swift
+//  WeatherViewController.swift
 //  Clima
 //
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by Matheus Sales on 18/09/22.
+//  Copyright © 2022 App Brewery. All rights reserved.
 //
 
 import UIKit
