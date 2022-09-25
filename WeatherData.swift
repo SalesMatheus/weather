@@ -14,12 +14,12 @@ struct WeatherData: Decodable {
     let weather: [Weather];
 }
 
-struct Weather: Decodable {
-    let description: String;
-}
-
 struct Main: Decodable {
     let temp: Double;
 }
 
+struct Weather: Decodable {
+    let id: Int;
+    let description: String;
+}
 
