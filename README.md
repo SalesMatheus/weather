@@ -1,4 +1,4 @@
-#  Clima ⛈
+#  Weather ⛈
 
 ## 💻 Projeto
 
